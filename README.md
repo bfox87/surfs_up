@@ -22,4 +22,4 @@ Oahu's weather is well suited for our surf n' shake shop. The climate is warm an
 #### Additional Queries for Further Insight:
 The precipitation statistics for June and December would also be good to have. Knowing temperarture is useful, but how wet those months are on average could have a major impact on the success or failure of the shop.
 
-Additionally, it would be useful to seek out **hourly** precipitation data for June and December. Knowing if a day's rainfall total was from all-day drizzle or from a quick storm is important. A quick shower or storm is less likely to have deterimental impact on our business than an overcast, light rain all day.
+Additionally, it would be useful to seek out **hourly** precipitation data for June and December. Better understanding Oahu's rainfall patterns by time of day is important. A quick shower or storm is less likely to have deterimental impact on our business than an overcast, light rain all day. It's also likely beneficial if rainfall is typically experienced in the early mornings versus mid afternoons.
